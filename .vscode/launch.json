@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (Kerem’s iPhone)",
+      "program": "lib/main.dart",
+      "deviceId": "00008120-000E4D1E0EFBC01E",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    }
+  ]
+}
